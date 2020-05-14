@@ -3,3 +3,5 @@
 见[Issues](https://github.com/cndaqiang/E5-PC-daily/issues)
 
 免费容器https://ide.goorm.io/?plan=ZnJlZQ==
+
+好用v2ray https://v2.qovoq.ml/#/register?code=3nErpC3T
