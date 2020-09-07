@@ -9,3 +9,8 @@ https://github.com/cndaqiang/E5-PC-daily/issues/28
 
 好用v2ray/Trojan https://v2.qovoq.ml/#/register?code=3nErpC3T
 
+# 谷歌镜像收集
+
+2020-09-07 https://g0.njuu.cf
+
+
