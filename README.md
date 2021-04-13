@@ -15,3 +15,6 @@ https://github.com/cndaqiang/E5-PC-daily/issues/28
 2020-09-07 https://g0.njuu.cf
 
 
+# siteprox部署
+https://cndaqiang.herokuapp.com/
+https://web.cndaqiang.workers.dev/
