@@ -11,8 +11,9 @@ https://github.com/cndaqiang/E5-PC-daily/issues/28
 好用v2ray/Trojan https://v2.qovoq.ml/#/register?code=3nErpC3T
 
 # 谷歌镜像收集
-2020-09-21 https://anji.pw/<br>
-2020-09-07 https://g0.njuu.cf
+- 2021-05-05 https://txt.guoqiangti.ga/
+- 2020-09-21 https://anji.pw/ 
+- 2020-09-07 ~~tps://g0.njuu.cf~~
 
 
 # siteprox部署
