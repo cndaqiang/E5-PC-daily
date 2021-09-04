@@ -8,7 +8,9 @@
 # 机场测试
 https://github.com/cndaqiang/E5-PC-daily/issues/28
 
-好用v2ray/Trojan https://v2.qovoq.ml/#/register?code=3nErpC3T
+好用v2ray/Trojan
+- 最新发现的便宜: https://xn--mesr8b36x.net/#/register?code=eTRz26Yx
+- 用了一年稳定: https://v2.qovoq.ml/#/register?code=3nErpC3T
 
 # 谷歌镜像收集
 - 2021-05-05 https://txt.guoqiangti.ga/
