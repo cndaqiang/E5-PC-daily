@@ -11,7 +11,7 @@ https://github.com/cndaqiang/E5-PC-daily/issues/28
 好用v2ray/Trojan
 - 用了一年稳定: https://v2.qovoq.ml/#/register?code=3nErpC3T
 - 最新发现的便宜: https://xn--mesr8b36x.net/#/register?code=eTRz26Yx
-- 更便宜的0.5元/月 https://www.qtyuncloud.tk/auth/register?code=cCCJ
+- 更便宜的0.5元/月 https://wwb.qtycloud.xyz/auth/register?code=cCCJ
 - 1元10G: https://mojie.pw/#/register?code=EEHi6uSW
 # 谷歌镜像收集
 - 2021-05-05 https://txt.guoqiangti.ga/
