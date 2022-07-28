@@ -5,6 +5,8 @@
 
 免费容器https://ide.goorm.io/?plan=ZnJlZQ==
 
+在用[科学上网机场](https://github.com/cndaqiang/E5-PC-daily/issues/28)
+
 
 # siteprox部署
 https://cndaqiang.herokuapp.com/
